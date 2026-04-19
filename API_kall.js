@@ -1,4 +1,7 @@
-const API_KEY = 'Legg inn din API kedy her';
+//Bestill api nøkkel og få metering point id fra Å Energi.
+//legg de inn "mellom" '' under. (' må ikke fjernes).
+
+const API_KEY = 'Legg inn din API key her';
 const METERING_POINT_ID = 'Legg inn din metering point ID her';
 const URL = 'https://api.aenergi.no/Glitrenett/gridtariff/api/1/tariffquery/meteringpointsgridtariffs/';
 
