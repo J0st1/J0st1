@@ -1,4 +1,4 @@
-# Homey-enerig-Nettleie
+# Homey-Energi-Nettleie
 
 Dette skriptet henter offisielle nettleiepriser (energiledd og kapasitetsledd) direkte fra Åenergi API. Det er spesialtilpasset for å fungere sømløst med Strømregning-appen i Homey.
 
